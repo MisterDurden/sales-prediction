@@ -1,0 +1,251 @@
+﻿Name,Customer_Segment,Customer_ID,Address,City,State,ZIP,Store_Number,Avg_Num_Products_Purchased,#_Years_as_Customer,Score_No,Score_Yes
+A Giametti,Loyalty Club Only,2213,5326 S Lisbon Way,Centennial,CO,80015,105,3,0.2,0.694964193,0.305035807
+Abby Pierson,Loyalty Club and Credit Card,2785,4344 W Roanoke Pl,Denver,CO,80236,101,6,0.6,0.527275463,0.472724537
+Adele Hallman,Loyalty Club Only,2931,5219 S Delaware St,Englewood,CO,80110,101,7,0.9,0.42111815,0.57888185
+Alejandra Baird,Loyalty Club Only,2231,2301 Lawrence St,Denver,CO,80205,103,2,0.6,0.694862189,0.305137811
+Alice Dewitt,Loyalty Club Only,2530,5549 S Hannibal Way,Centennial,CO,80015,104,4,0.5,0.612294145,0.387705855
+Amanda Donahoe,Credit Card Only,1946,10093 E Warren Ave,Denver,CO,80247,105,7,0.7,0.732721707,0.267278293
+Amanda Huerta,Loyalty Club and Credit Card,1212,3889 Aldenbridge Cir,Highlands Ranch,CO,80126,101,4,1,0.778260506,0.221739494
+Angie Reffel,Credit Card Only,369,4502 S Buckley Way,Aurora,CO,80015,104,6,0.2,0.806552851,0.193447149
+Anh Tran,Credit Card Only,1683,7328 E Maple Ave,Denver,CO,80230,100,6,0,0.749342386,0.250657614
+Anna Crumrine,Loyalty Club Only,1940,7354 S Catawba Way,Aurora,CO,80016,102,4,0.9,0.735476848,0.264523152
+April Johnson,Store Mailing List,174,16951 E Stanford Ave,Aurora,CO,80015,104,2,0.9,0.809458598,0.190541402
+Aul Pedajas,Loyalty Club Only,256,7557 E Warren Cir,Denver,CO,80231,105,7,0.1,0.808455095,0.191544905
+B Corona,Loyalty Club Only,1002,3721 S Pitkin Ct,Aurora,CO,80013,104,4,0.8,0.787715902,0.212284098
+Barbara Archuleta,Credit Card Only,2072,9421 W 93rd Ave,Broomfield,CO,80021,103,5,0.6,0.722037905,0.277962095
+Barbara Vogel,Credit Card Only,2004,9457 W Hamilton Dr,Lakewood,CO,80227,101,7,0.9,0.730290448,0.269709552
+Becca Blais,Loyalty Club Only,1505,13900 Lake Song Ln,Broomfield,CO,80023,108,3,0.3,0.761564029,0.238435971
+Beverly Buckmon,Loyalty Club Only,1405,2552 S Olathe Way,Aurora,CO,80013,102,5,0.4,0.767020576,0.232979424
+Beverly Hoyt,Loyalty Club Only,987,3821 Lowell Blvd,Denver,CO,80211,106,1,0.9,0.787891714,0.212108286
+Beverly Muncy,Loyalty Club and Credit Card,1193,4144 E Hinsdale Cir,Centennial,CO,80122,101,27,0.9,0.778393234,0.221606766
+Bria Cunningham,Credit Card Only,259,142 Kenton St,Aurora,CO,80010,105,3,0.8,0.808283725,0.191716275
+Brittany Johnson,Loyalty Club Only,2282,9281 W 98th Way,Broomfield,CO,80021,103,6,0.6,0.673312252,0.326687748
+Carol Macomber,Loyalty Club Only,1425,714 S Xavier St,Denver,CO,80219,106,3,0.1,0.766584363,0.233415637
+Carol Makris,Loyalty Club Only,2034,5187 S Williams Dr,Greenwood Village,CO,80121,100,6,0.5,0.726952306,0.273047694
+Carolyn Lockhart,Loyalty Club Only,477,4701 Perry St,Denver,CO,80212,107,3,0.2,0.802741827,0.197258173
+Cassandra Wheeler,Loyalty Club Only,3001,9800 W 51st Pl,Arvada,CO,80002,108,6,0.7,0.372755034,0.627244966
+Chandra Ravilochan,Loyalty Club Only,1565,10101 Gaylord St,Thornton,CO,80229,103,2,0.9,0.759925967,0.240074033
+Cheryl Roper,Loyalty Club and Credit Card,1786,6905 W Princeton Ave,Denver,CO,80235,101,2,0.9,0.742879624,0.257120376
+Chris Lane,Credit Card Only,2957,5674 S Huron St,Littleton,CO,80120,101,5,0.4,0.386927306,0.613072694
+Christine Schillereff,Loyalty Club and Credit Card,2498,374 S Estes St,Lakewood,CO,80226,106,12,0.9,0.613780439,0.386219561
+Cindy Kaufman,Loyalty Club Only,2456,9871 E Walsh Pl,Denver,CO,80247,101,3,0.8,0.616788484,0.383211516
+Cindy Rogers,Loyalty Club Only,2200,6022 Estes St,Arvada,CO,80004,108,3,0.2,0.707015442,0.292984558
+Clara Mcgihon,Credit Card Only,1609,5910 S Gilpin Ct,Centennial,CO,80121,105,7,0.1,0.756222207,0.243777793
+Clarissa Kenedy,Credit Card Only,2580,3713 S Espana Way,Aurora,CO,80013,104,6,0.6,0.590141301,0.409858699
+Cleo Lujan,Store Mailing List,1361,7355 S Tempe Ct,Aurora,CO,80016,102,3,1,0.770920282,0.229079718
+Connie Boccaccio,Credit Card Only,2409,23763 E Eads Dr,Aurora,CO,80016,102,7,0.5,0.645510208,0.354489792
+Cristal Hunter,Loyalty Club and Credit Card,693,13198 W Buckhorn Way,Littleton,CO,80127,101,10,0.2,0.798798833,0.201201167
+Cynthia Lidman,Loyalty Club Only,1119,16310 E Radcliff Pl,Aurora,CO,80015,104,6,0.3,0.786095978,0.213904022
+Cynthia Noekstra,Credit Card Only,1216,5050 Quitman St,Denver,CO,80212,107,5,0.1,0.775847195,0.224152805
+Cynthia Westergaard,Loyalty Club Only,248,2047 S Milwaukee St,Denver,CO,80210,100,5,0.8,0.808637702,0.191362298
+Dana Collins,Loyalty Club Only,2854,4592 W 105th Way,Westminster,CO,80031,109,8,0.6,0.509847292,0.490152708
+Danielle Solano,Loyalty Club and Credit Card,2539,12092 E Maple Ave,Aurora,CO,80012,105,8,0.2,0.605707339,0.394292661
+Darae Dolan,Loyalty Club and Credit Card,1404,9562 Sara Gulch Cir,Parker,CO,80138,102,8,0.9,0.768944361,0.231055639
+Darlene Lund,Loyalty Club Only,2833,6944 Owens St,Arvada,CO,80004,108,2,0.6,0.518631024,0.481368976
+Deanne Bader,Loyalty Club Only,24,2855 Adams St,Denver,CO,80205,105,5,1,0.812673899,0.187326101
+Deborah Mcconnell,Loyalty Club and Credit Card,894,14455 W 70th Dr,Arvada,CO,80004,103,13,0,0.792595944,0.207404056
+Deborah Rothwell,Credit Card Only,2133,7431 Dexter St,Commerce City,CO,80022,107,6,0.7,0.715720613,0.284279387
+Deborah Sagraves,Credit Card Only,719,18175 E Cornell Pl,Aurora,CO,80013,104,5,0.5,0.797587513,0.202412487
+Debra Gallegos,Store Mailing List,3166,3781 Jackson Way,Thornton,CO,80233,107,2,0.3,0.251453728,0.748546272
+Debra Harding,Loyalty Club Only,951,17937 E Bethany Pl,Aurora,CO,80013,104,6,0.2,0.788455905,0.211544095
+Deirdre Odwyer,Loyalty Club Only,242,5263 S Richfield St,Centennial,CO,80015,104,2,0.8,0.809177065,0.190822935
+Denise Friend,Loyalty Club Only,2153,545 Circle Dr,Denver,CO,80206,104,3,1,0.71513062,0.28486938
+Deria Alexander,Loyalty Club Only,2429,23954 E Kettle Pl,Aurora,CO,80016,102,4,0.6,0.633994763,0.366005237
+Devorah Tennyson,Credit Card Only,1767,11823 E Canal Dr,Aurora,CO,80011,105,3,0.1,0.744682865,0.255317135
+Dolly Jelinske,Loyalty Club Only,2870,8760 S Garland Ct,Littleton,CO,80128,101,2,0.1,0.498856404,0.501143596
+Dolores Unrein,Loyalty Club Only,413,13602 E Dakota Pl,Aurora,CO,80012,105,1,0.9,0.804976857,0.195023143
+Doni Kemp,Loyalty Club Only,411,9956 Clark Dr,Northglenn,CO,80260,103,1,0.9,0.805174205,0.194825795
+Donita Smutzer,Credit Card Only,3279,2517 Ingalls St,Edgewater,CO,80214,107,7,0.5,1.18E-03,0.998824962
+Donna Kukucka,Loyalty Club Only,1953,6823 S Jasmine Ct,Centennial,CO,80112,104,7,0.1,0.731809828,0.268190172
+Doris Johnson,Credit Card Only,1088,7727 Harlan St,Arvada,CO,80003,103,6,0.7,0.78644732,0.21355268
+Dorothy Cole,Loyalty Club Only,23,4896 Harlan St,Denver,CO,80212,107,4,0.8,0.813561319,0.186438681
+Dusty Gordon,Loyalty Club Only,801,1344 High St,Denver,CO,80218,100,3,0.3,0.795298957,0.204701043
+Earlyne Winters,Credit Card Only,562,12221 W 2nd Pl,Lakewood,CO,80228,107,5,0,0.800423226,0.199576774
+Eileen Kilroy,Loyalty Club Only,1485,7018 W 44th Ave,Wheat Ridge,CO,80033,106,4,0.5,0.764211492,0.235788508
+Elizabeth Pacheco,Loyalty Club Only,823,3100 S Federal Blvd,Denver,CO,80236,101,6,0.5,0.793093305,0.206906695
+Emily Brown,Loyalty Club Only,721,3744 S Quintero St,Aurora,CO,80013,104,4,0.9,0.797256646,0.202743354
+Ergeat Bahata,Credit Card Only,2890,8920 W 4th Pl,Lakewood,CO,80226,106,6,0,0.458877354,0.541122646
+Erin Klotz,Credit Card Only,1769,3177 S Mobile Way,Aurora,CO,80013,105,5,0.4,0.743552036,0.256447964
+Erin Reno,Store Mailing List,1597,995 Flower St,Lakewood,CO,80215,106,1,0.4,0.757446681,0.242553319
+Erin Trunck,Loyalty Club Only,1622,1551 Larimer St,Denver,CO,80202,105,2,0,0.753313594,0.246686406
+Frances Joyce,Loyalty Club Only,339,5401 E Dakota Ave,Denver,CO,80246,100,5,0.1,0.8068505,0.1931495
+Gail Bear,Store Mailing List,645,7414 Deframe St,Arvada,CO,80005,108,2,0.5,0.799139504,0.200860496
+Gail Philman,Credit Card Only,2270,14152 E Linvale Pl,Aurora,CO,80014,104,7,1,0.681924477,0.318075523
+Gailyn Philman,Credit Card Only,1113,274 Quari St,Aurora,CO,80011,105,7,0.5,0.786209762,0.213790238
+Gale Speer,Loyalty Club Only,2702,2601 W Floyd Ave,Englewood,CO,80110,101,6,0.1,0.565785969,0.434214031
+Hannah Truppo,Loyalty Club Only,2910,1612 S Ammons St,Lakewood,CO,80232,107,2,0.6,0.434682699,0.565317301
+Heather Black,Loyalty Club Only,3025,2699 W 126th Ave,Broomfield,CO,80020,108,2,0.2,0.337571928,0.662428072
+Heather Josten,Loyalty Club Only,266,8965 E Florida Ave,Denver,CO,80247,105,3,0.3,0.807427364,0.192572636
+Heather Musgrove,Loyalty Club and Credit Card,1348,4475 E Yale Ave,Denver,CO,80222,104,5,0.2,0.773143707,0.226856293
+Heidi Wallace,Loyalty Club Only,790,16671 E Navarro Dr,Aurora,CO,80013,104,1,1,0.795776401,0.204223599
+Helen Forrester,Store Mailing List,2193,8193 W 9th Ave,Lakewood,CO,80214,106,2,0.2,0.710684542,0.289315458
+Honorine Essandjo,Loyalty Club Only,2002,9791 Jefferson Pkwy,Englewood,CO,80112,104,3,0.2,0.730396437,0.269603563
+Imelda Avila,Loyalty Club Only,922,3817 S Uravan St,Aurora,CO,80013,104,4,1,0.790344156,0.209655844
+Irma Jimenez,Loyalty Club Only,2947,6705 W Floyd Dr,Lakewood,CO,80227,106,4,1,0.393168905,0.606831095
+Jalayne Kubasta,Loyalty Club Only,247,7759 Oakview Pl,Castle Pines,CO,80108,102,4,0.4,0.809067123,0.190932877
+Jan Baker,Credit Card Only,427,1500 W Thornton Pkwy,Thornton,CO,80260,107,6,0.9,0.80342342,0.19657658
+Jance Pearson,Loyalty Club and Credit Card,1734,3528 S Depew St,Denver,CO,80235,101,5,0.6,0.74763586,0.25236414
+Janeil Miller,Credit Card Only,2725,22227 E Hinsdale Ave,Aurora,CO,80016,104,5,0.7,0.532455124,0.467544876
+Janet Caraballos,Loyalty Club Only,1751,4840 E Atlantic Pl,Denver,CO,80222,107,4,0.8,0.746037148,0.253962852
+Janice Coven,Store Mailing List,2187,24562 E Davies Way,Aurora,CO,80016,102,1,1,0.711508678,0.288491322
+Janice Leyba,Credit Card Only,3000,7483 E Warren Dr,Denver,CO,80231,105,6,0.2,0.376872269,0.623127731
+Janis Williams,Loyalty Club Only,2545,7127 Fenton St,Arvada,CO,80003,103,8,0.9,0.599004461,0.400995539
+Jean Jasinski,Credit Card Only,2400,7402 Church Ranch Blvd,Broomfield,CO,80021,103,6,0.4,0.652717066,0.347282934
+Jean Mendoza,Loyalty Club Only,2393,13875 W 68th Dr,Arvada,CO,80004,103,2,0.4,0.657185176,0.342814824
+Jean Sampson,Loyalty Club Only,2486,8094 S Cody St,Littleton,CO,80128,106,3,0.6,0.614664836,0.385335164
+Jeanine Medrano,Loyalty Club Only,3214,2765 S Winona Ct,Denver,CO,80236,101,5,0.8,9.67E-02,0.90327841
+Jenna Kinsey,Store Mailing List,738,774 S Ivy St,Denver,CO,80224,100,1,0.1,0.797089182,0.202910818
+Jennifer Achiamaa,Loyalty Club Only,3252,4363 W 30th Ave,Denver,CO,80212,107,6,0.9,2.80E-03,0.997198264
+Jennifer Marsh,Loyalty Club Only,1371,7085 Owens St,Arvada,CO,80004,103,4,0.3,0.770214426,0.229785574
+Jennifer Mordatto,Loyalty Club Only,2598,11667 Larkspur Dr,Parker,CO,80134,104,1,0.1,0.584717433,0.415282567
+Jennifer Odegard,Store Mailing List,3203,11739 E Canal Dr,Aurora,CO,80011,105,2,0.2,0.131085355,0.868914645
+Jennifer Ward,Loyalty Club Only,1307,5582 E Colorado Ave,Denver,CO,80222,105,4,0.8,0.774479857,0.225520143
+Jenny Thomas,Loyalty Club Only,2624,425 Golden Eagle Dr,Broomfield,CO,80020,109,3,1,0.584515357,0.415484643
+Jesika Peterson,Credit Card Only,497,5512 S Rifle St,Centennial,CO,80015,104,4,0.9,0.801416979,0.198583021
+Jessica Hagar,Loyalty Club and Credit Card,3063,13593 W 65th Pl,Arvada,CO,80004,108,6,0.3,0.303085363,0.696914637
+Jodie Quint,Credit Card Only,391,5287 E 97th Pl,Denver,CO,80229,107,5,0.6,0.805774567,0.194225433
+Johnnie Alexander,Loyalty Club Only,2454,3149 S Mobile Way,Aurora,CO,80013,105,3,0.6,0.618258278,0.381741722
+Josefina Ortiz,Credit Card Only,2398,1416 Pennsylvania St,Denver,CO,80203,103,5,1,0.652786643,0.347213357
+Josephine Cameron,Loyalty Club and Credit Card,3132,1206 Pierce St,Lakewood,CO,80214,106,7,0.5,0.264059619,0.735940381
+Juana Vigil,Loyalty Club Only,863,7032 S Newport St,Centennial,CO,80112,104,6,0.1,0.793022357,0.206977643
+Judy Martillaro,Loyalty Club Only,347,4587 S Laredo St,Aurora,CO,80015,104,1,0.7,0.806579116,0.193420884
+Julie Dalebout,Credit Card Only,212,16739 E Auburn Hills Dr,Parker,CO,80134,102,5,0.9,0.809361999,0.190638001
+Julie Kyung,Loyalty Club and Credit Card,2418,1601 Aspen St,Broomfield,CO,80020,109,6,0.4,0.639709145,0.360290855
+Julie Stewart,Credit Card Only,2500,21017 E Eastman Dr,Aurora,CO,80013,105,5,0.5,0.612641294,0.387358706
+June Ortega,Loyalty Club Only,1829,1610 Little Raven St,Denver,CO,80202,105,4,0.2,0.74263787,0.25736213
+Justine Streltzer,Credit Card Only,3108,1731 S Forest St,Denver,CO,80222,100,4,0.9,0.271146993,0.728853007
+Karen Heagerty,Loyalty Club Only,2203,3666 S Depew St,Denver,CO,80235,101,4,0.3,0.704737171,0.295262829
+Karen Mcclean,Credit Card Only,2550,6409 W 95th Ave,Westminster,CO,80031,103,5,0.8,0.592688628,0.407311372
+Karlene Macedo,Store Mailing List,457,6844 Nelson St,Arvada,CO,80004,108,1,0.4,0.803309432,0.196690568
+Katherine Burkey,Credit Card Only,2352,6621 Millstone Pl,Highlands Ranch,CO,80130,104,6,0.2,0.664900828,0.335099172
+Katherine Desellem,Loyalty Club Only,907,3240 W 14th Ave,Denver,CO,80204,101,5,0.8,0.791139506,0.208860494
+Katherine Haught,Loyalty Club Only,805,9108 Fontaine St,Denver,CO,80260,109,3,0.6,0.794750834,0.205249166
+Katherine Peterson,Loyalty Club Only,1486,13994 E Arkansas Pl,Aurora,CO,80012,105,2,0.1,0.764041206,0.235958794
+Kathleen Brun,Credit Card Only,2258,12965 E 2nd Ave,Aurora,CO,80011,105,5,0.9,0.691102896,0.308897104
+Kathleen Bryan,Credit Card Only,313,12306 W 81st Dr,Arvada,CO,80005,103,5,0.1,0.807060676,0.192939324
+Kathleen Wilson,Loyalty Club Only,825,7315 W Calahan Ave,Lakewood,CO,80232,106,7,1,0.793046078,0.206953922
+Kathryn Andersen,Credit Card Only,2330,11295 W Center Ave,Lakewood,CO,80226,101,10,0.1,0.669727032,0.330272968
+Kathy Wells,Loyalty Club Only,1502,8320 W Eastman Pl,Lakewood,CO,80227,101,5,0.9,0.762986464,0.237013536
+Kayla Moots,Credit Card Only,1434,4448 Hooker St,Denver,CO,80211,107,5,0.8,0.765561391,0.234438609
+Kelly Collier,Loyalty Club Only,1725,13752 E Lehigh Ave,Aurora,CO,80014,104,2,0.4,0.748130715,0.251869285
+Kelly Trotter,Credit Card Only,2206,3901 Haddon Rd,Denver,CO,80205,107,7,0.4,0.697571608,0.302428392
+Kimberly Sanchez,Loyalty Club Only,2433,6987 Sheridan Blvd,Arvada,CO,80003,108,4,0.2,0.624436406,0.375563594
+Kimberly Turner,Credit Card Only,2638,1805 S Balsam St,Lakewood,CO,80232,106,5,0.3,0.567602823,0.432397177
+Kristen Herrington,Loyalty Club Only,1720,3023 S Walden Ct,Aurora,CO,80013,104,4,0.1,0.749064953,0.250935047
+Kristi Jackson,Credit Card Only,2386,3824 S Ceylon Way,Aurora,CO,80013,104,3,0.4,0.657985318,0.342014682
+Krystal Vigil,Credit Card Only,2889,4960 W 8th Ave,Denver,CO,80204,106,6,0.9,0.466007204,0.533992796
+L Hanson,Loyalty Club Only,2926,960 W 112th Ave,Northglenn,CO,80234,103,6,0.4,0.428145692,0.571854308
+Lara Bracciante,Credit Card Only,2873,11890 W 35th Ave,Wheat Ridge,CO,80033,108,5,0.9,0.474114134,0.525885866
+Laura Garcia,Credit Card Only,2100,9655 E Center Ave,Denver,CO,80247,100,3,0.8,0.720541359,0.279458641
+Laura Samenus,Credit Card Only,2332,8273 W 90th Pl,Broomfield,CO,80021,103,5,0.5,0.669463583,0.330536417
+Leona Gillespie,Loyalty Club Only,1120,19020 E Mansfield Dr,Aurora,CO,80013,104,4,0.6,0.786054195,0.213945805
+Leticia Jurado,Loyalty Club Only,3149,377 Albion St,Denver,CO,80220,105,5,0.2,0.258728004,0.741271996
+Leydal Sierro,Loyalty Club Only,2264,1361 Utica St,Denver,CO,80204,103,4,0.3,0.68791212,0.31208788
+Linda Lowry,Credit Card Only,1554,6542 S Field Way,Littleton,CO,80123,106,5,0.2,0.761536495,0.238463505
+Linda Mcvay,Loyalty Club Only,3022,3445 Wadsworth Blvd,Wheat Ridge,CO,80033,106,4,0.6,0.347317555,0.652682445
+Linda Newman,Credit Card Only,1730,1811 S Elm St,Denver,CO,80222,100,7,0.4,0.747791105,0.252208895
+Linda Suazo,Loyalty Club Only,3177,12760 Wolff Ct,Broomfield,CO,80020,109,4,1,0.243982005,0.756017995
+Lisa Frantz,Loyalty Club and Credit Card,117,37 Del Mar Cir,Aurora,CO,80011,105,10,0.5,0.811004492,0.188995508
+Lori Cordova,Loyalty Club Only,260,7906 W 90th Ave,Broomfield,CO,80021,107,2,0.3,0.8078214,0.1921786
+Lori Grahame,Loyalty Club Only,2101,6800 E Tennessee Ave,Denver,CO,80224,100,4,0.9,0.717366563,0.282633437
+Lorna Collier,Loyalty Club Only,2770,14824 E Grand Pl,Aurora,CO,80015,104,5,0.2,0.527552524,0.472447476
+Lorralne Watkins,Credit Card Only,35,2100 16th St,Denver,CO,80202,103,2,0.8,0.812283974,0.187716026
+Lydia Mazanti,Loyalty Club Only,2894,1201 S Corona St,Denver,CO,80210,100,4,0.8,0.441159899,0.558840101
+Lynda Bergondo,Credit Card Only,3229,3950 E Dartmouth Ave,Denver,CO,80210,100,6,0.2,1.78E-02,0.98223442
+Lynn Winters,Loyalty Club Only,1368,4585 Vallejo St,Denver,CO,80211,103,6,0.6,0.770591475,0.229408525
+M Stiegelmar,Loyalty Club Only,1157,6352 Zang Ct,Arvada,CO,80004,108,1,1,0.779023198,0.220976802
+Manju Panday,Loyalty Club Only,1247,3805 W 26th Ave,Denver,CO,80211,101,3,0.7,0.774848975,0.225151025
+Margaret Flaten,Credit Card Only,1142,9924 W Arlington Ave,Littleton,CO,80123,101,7,0.9,0.779651758,0.220348242
+Margarita Corral,Loyalty Club Only,561,1366 S Bahama St,Aurora,CO,80017,104,3,0.5,0.80062212,0.19937788
+Margret Mcdonald,Loyalty Club Only,2766,1674 S Lansing St,Aurora,CO,80012,104,1,0.4,0.528969346,0.471030654
+Marguerite Zambrano,Store Mailing List,2451,5630 W 79th Ave,Arvada,CO,80003,108,2,0.3,0.621730413,0.378269587
+Maria Becerra,Loyalty Club Only,3209,2288 S Oakland Way,Aurora,CO,80014,105,3,0.1,9.69E-02,0.90311749
+Maria Dadole,Credit Card Only,2805,66 Oakland St,Aurora,CO,80012,105,1,0.7,0.522565047,0.477434953
+Maria Garcia,Loyalty Club Only,1566,964 S Ivy St,Denver,CO,80224,105,2,0.8,0.759767052,0.240232948
+Maria Olvera,Loyalty Club and Credit Card,868,4961 Garrison St,Wheat Ridge,CO,80033,108,9,0.7,0.792722376,0.207277624
+Maria Ramirez,Credit Card Only,32,9291 Irving St,Westminster,CO,80031,109,6,0.6,0.81261878,0.18738122
+Marie Sloane,Credit Card Only,2161,5330 W 80th Ave,Arvada,CO,80003,107,5,0.6,0.714591071,0.285408929
+Marion Shichman,Loyalty Club Only,1015,8300 Fairmount Dr,Denver,CO,80247,105,6,0.9,0.787602102,0.212397898
+Marissa Latta,Store Mailing List,3046,15692 E Jefferson Ave,Aurora,CO,80013,102,2,0.4,0.309270797,0.690729203
+Marjorey Desalvo,Loyalty Club and Credit Card,1340,3223 W 111th Pl,Westminster,CO,80031,103,11,0.4,0.773768332,0.226231668
+Marjorie White,Credit Card Only,2268,411 S Vaughn Way,Aurora,CO,80012,105,4,0.6,0.684269453,0.315730547
+Martha Brainard,Loyalty Club Only,2962,11548 Community Center Dr,Northglenn,CO,80233,107,4,0.1,0.379800524,0.620199476
+Martha Cuellar,Credit Card Only,2551,6000 W Floyd Ave,Denver,CO,80227,101,5,0.8,0.591281231,0.408718769
+Mary Davis,Loyalty Club Only,916,251 S Colorado Blvd,Denver,CO,80246,106,3,0.1,0.791106882,0.208893118
+Mary Maes,Loyalty Club Only,1391,602 S Paris St,Aurora,CO,80012,105,7,0.9,0.769567018,0.230432982
+Mary Prats,Store Mailing List,2470,7875 W 9th Ave,Lakewood,CO,80214,107,2,0.2,0.615422165,0.384577835
+Mary Vaught,Loyalty Club and Credit Card,2630,6404 Gray St,Arvada,CO,80003,100,9,0.3,0.572552502,0.427447498
+Mary Watson,Credit Card Only,2067,9548 W 75th Pl,Arvada,CO,80005,103,7,0.1,0.722864034,0.277135966
+Mavis Salazar,Credit Card Only,3225,7009 S Tamarac Ct,Centennial,CO,80112,102,5,0.7,7.31E-02,0.926945398
+Mayra Contreras,Loyalty Club Only,950,2790 S Golden Way,Denver,CO,80227,101,5,1,0.788925179,0.211074821
+Mayya Master,Loyalty Club Only,2430,4604 S Fraser Ct,Aurora,CO,80015,105,6,0.2,0.633530475,0.366469525
+Michele Fry,Store Mailing List,423,3230 Williams St,Denver,CO,80205,107,1,0.6,0.803474149,0.196525851
+Michele Munsey,Credit Card Only,18,4034 S Carson St,Aurora,CO,80014,104,6,0.6,0.814270512,0.185729488
+Michelle Brabeen,Credit Card Only,2442,400 W South Boulder Rd,Louisville,CO,80027,109,5,0.3,0.622372876,0.377627124
+Michelle Miller,Credit Card Only,3328,1662 S Deframe St,Lakewood,CO,80228,106,5,0.7,2.08E-06,0.999997924
+Michelle Murray,Store Mailing List,2402,1382 S Cathay Ct,Aurora,CO,80017,104,1,0.7,0.646870044,0.353129956
+Minh Pham,Credit Card Only,2260,4554 Raritan St,Denver,CO,80211,100,8,1,0.69023418,0.30976582
+Mona Hopwood,Loyalty Club Only,327,8155 E Fairmount Dr,Denver,CO,80230,107,3,1,0.806855402,0.193144598
+Muriel Hensley,Loyalty Club Only,418,5805 Clear Creek Dr,Denver,CO,80212,107,4,1,0.804608652,0.195391348
+Nancy Nicholas,Credit Card Only,2337,1752 Blackhawk St,Aurora,CO,80011,100,5,0.6,0.669265158,0.330734842
+Nancy Roberts,Loyalty Club Only,2343,14228 W 69th Pl,Arvada,CO,80004,108,4,0.7,0.665633852,0.334366148
+Naomi Salaman,Credit Card Only,2884,12499 W Crestline Dr,Littleton,CO,80127,101,7,0.7,0.467030768,0.532969232
+Nichole Hopkins,Loyalty Club and Credit Card,3083,4889 Streambed Trl,Parker,CO,80134,102,8,0.7,0.281672772,0.718327228
+Nicole Dennings,Credit Card Only,402,5502 Newland Way,Arvada,CO,80002,109,5,0.2,0.805460587,0.194539413
+Nicole Huyck,Loyalty Club Only,820,6366 E 78th Ave,Commerce City,CO,80022,107,3,0.1,0.793417635,0.206582365
+Noreen Jackson,Loyalty Club Only,3017,3935 S Richfield St,Aurora,CO,80013,105,5,0.8,0.359395473,0.640604527
+Olivia Miles,Credit Card Only,1740,4442 S Zenobia St,Denver,CO,80236,101,6,0.2,0.747428367,0.252571633
+Oralie Rosencranz,Loyalty Club Only,1017,7498 Alkire St,Arvada,CO,80005,109,3,0.8,0.787418475,0.212581525
+Pam Gomez,Store Mailing List,3194,215 E 11th Ave,Denver,CO,80203,107,3,0.1,0.155789526,0.844210474
+Patricia Morales,Store Mailing List,404,755 S Alton Way,Denver,CO,80247,100,2,0.9,0.805457462,0.194542538
+Phyllis Brock,Loyalty Club and Credit Card,949,3609 Forest St,Denver,CO,80207,106,11,0.7,0.789076685,0.210923315
+Quien Chiang,Loyalty Club and Credit Card,2903,11330 Fenton St,Westminster,CO,80020,107,4,0.9,0.436569305,0.563430695
+Rachel Dunleavy,Credit Card Only,1610,1822 Independence St,Lakewood,CO,80215,107,1,0.9,0.754287772,0.245712228
+Radost Ryagouzova,Loyalty Club Only,1958,1859 S Xavier St,Denver,CO,80219,100,3,0.5,0.731626635,0.268373365
+Rayetta Johnson,Loyalty Club Only,2723,358 Mulberry Cir,Broomfield,CO,80020,109,4,0.9,0.557676743,0.442323257
+Rebecca Holden,Loyalty Club Only,1997,922 S Zephyr Ct,Lakewood,CO,80226,106,4,0.8,0.731560296,0.268439704
+Rebekah Stark,Loyalty Club and Credit Card,1888,1074 S Zeno Way,Aurora,CO,80017,105,3,0.7,0.741971428,0.258028572
+Regina Barsocchini,Loyalty Club Only,3084,4690 Quitman St,Denver,CO,80212,107,4,0.2,0.281334047,0.718665953
+Regina Reyes,Loyalty Club Only,754,1060 Laurel St,Broomfield,CO,80020,109,5,1,0.797012551,0.202987449
+Richelle Arias,Credit Card Only,1151,289 Quebec St,Denver,CO,80220,100,2,0.5,0.779257788,0.220742212
+Robbyn Stober,Credit Card Only,1133,4205 W 4th Ave,Denver,CO,80219,101,5,0.5,0.781654093,0.218345907
+Roxanne Musselman,Loyalty Club Only,2856,294 Garnet St,Broomfield,CO,80020,108,2,0,0.50409656,0.49590344
+Ruth Cook,Loyalty Club Only,1377,14181 E Iowa Dr,Aurora,CO,80012,105,1,0.3,0.769959375,0.230040625
+S Gault,Store Mailing List,1327,291 S Jasper Cir,Aurora,CO,80017,105,1,0.7,0.77396621,0.22603379
+Samantha Waldock,Loyalty Club Only,3249,10351 W Girton Dr,Lakewood,CO,80227,101,5,0.2,4.99E-03,0.995006409
+Sandra Meisinger,Loyalty Club Only,544,2210 Upham St,Lakewood,CO,80214,103,6,0.5,0.801363531,0.198636469
+Sarah Madrid,Store Mailing List,1876,2860 S Kenton Ct,Aurora,CO,80014,100,1,0.8,0.742047706,0.257952294
+Sarah Mccaffrey,Credit Card Only,1462,5350 W 52nd Ave,Denver,CO,80212,107,6,0.6,0.765220593,0.234779407
+Shari Albright,Credit Card Only,1360,6375 W Mississippi Pl,Lakewood,CO,80232,106,7,0.2,0.771312279,0.228687721
+Shawna Sisneros,Loyalty Club and Credit Card,642,6440 W 110th Ave,Westminster,CO,80020,109,6,0.6,0.799257868,0.200742132
+Sheila Richardson,Loyalty Club Only,701,3460 S Poplar St,Denver,CO,80224,106,6,0.7,0.798684588,0.201315412
+Sherry Miller,Loyalty Club Only,2567,19872 Montview Dr,Aurora,CO,80011,105,4,1,0.591264352,0.408735648
+Shirley Pilon,Loyalty Club Only,2355,15790 E Alameda Pkwy,Aurora,CO,80017,105,3,0.2,0.663744278,0.336255722
+Star Palfy,Loyalty Club and Credit Card,2489,6516 W Hoover Pl,Littleton,CO,80123,101,7,0.6,0.613796355,0.386203645
+Sue Herhalt,Loyalty Club Only,2249,601 W 11th Ave,Denver,CO,80204,106,4,0.6,0.694329024,0.305670976
+Sun Young,Loyalty Club Only,2281,2354 W 23rd Cir,Golden,CO,80401,106,4,0.4,0.675072416,0.324927584
+Susan Brewer,Loyalty Club Only,3195,8280 Everett Way,Arvada,CO,80005,103,4,0.4,0.138266073,0.861733927
+Susan Knight,Credit Card Only,1808,17502 E Wesley Pl,Aurora,CO,80013,105,6,0.3,0.742844604,0.257155396
+Swetha Inturi,Loyalty Club and Credit Card,2058,10768 E Crestridge Cir,Englewood,CO,80111,105,6,0.5,0.725626322,0.274373678
+Tabatha Hoeben,Loyalty Club Only,444,7861 W 87th Dr,Arvada,CO,80005,109,2,0.9,0.803412943,0.196587057
+Talloy Huntzinger,Loyalty Club Only,1641,293 Kenton St,Aurora,CO,80010,105,1,0.8,0.752607765,0.247392235
+Tamesha Johnson,Credit Card Only,2111,10583 W 62nd Pl,Arvada,CO,80004,107,6,0.5,0.717138097,0.282861903
+Terri Vasu,Loyalty Club Only,375,7309 W Hampden Ave,Lakewood,CO,80227,106,6,0.8,0.806547709,0.193452291
+Terry Weisenstein,Loyalty Club and Credit Card,1473,7240 W Custer Ave,Lakewood,CO,80226,106,3,0.9,0.764369367,0.235630633
+Theresa Gabriel,Loyalty Club Only,2321,3865 Perry St,Denver,CO,80212,107,1,0.7,0.672265692,0.327734308
+Theresa Vallejos,Credit Card Only,2162,5140 Raleigh St,Denver,CO,80212,107,6,0.6,0.712479492,0.287520508
+Tiffany Armstrong,Credit Card Only,122,7351 S Sheridan Ct,Littleton,CO,80128,100,5,0.9,0.810942914,0.189057086
+Timberly Klinestiver,Loyalty Club Only,2210,13375 W Warren Cir,Lakewood,CO,80228,108,2,0.7,0.696622725,0.303377275
+Tomoko Stewart,Credit Card Only,3188,8280 Brentwood Ct,Arvada,CO,80005,109,9,0.3,0.194131609,0.805868391
+Toni Vanness,Credit Card Only,1575,18727 E Dorado Dr,Aurora,CO,80015,105,4,0.4,0.759217984,0.240782016
+Tonya Bell,Credit Card Only,1384,1562 Chase St,Lakewood,CO,80214,106,5,0.9,0.76969315,0.23030685
+Tracy Williams,Loyalty Club Only,216,2720 E 13th Ave,Denver,CO,80206,105,4,0,0.809204609,0.190795391
+Vickey Howell,Credit Card Only,2803,14903 E Temple Pl,Aurora,CO,80015,105,5,0.9,0.522611852,0.477388148
+Vicky Churchman,Credit Card Only,637,2900 S Race St,Denver,CO,80210,100,8,0.9,0.799673223,0.200326777
+Vikki Grady,Credit Card Only,2130,8065 W Eastman Pl,Lakewood,CO,80227,101,5,0.9,0.71582274,0.28417726
+Vivian Weir,Store Mailing List,519,3894 Parfet St,Wheat Ridge,CO,80033,106,2,0.9,0.801379758,0.198620242
+Wanda Stiveson,Credit Card Only,1129,13080 W Montana Dr,Lakewood,CO,80228,107,18,0.3,0.783806093,0.216193907
+Wendy Crenshaw,Loyalty Club Only,304,12483 W 8th Ave,Golden,CO,80401,106,3,0.6,0.807199896,0.192800104
+Wendy Renaud,Loyalty Club Only,2629,700 S Alton Way,Denver,CO,80247,100,6,0.1,0.576544215,0.423455785
+Wilma Reid,Credit Card Only,1917,6763 W Yale Ave,Lakewood,CO,80227,101,7,0.2,0.740749485,0.259250515
+Yvette Kent,Credit Card Only,762,1071 Worchester St,Aurora,CO,80011,100,5,0.5,0.796349975,0.203650025
